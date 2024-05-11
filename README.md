@@ -21,10 +21,10 @@ Live Video Conferencing app which transcribes, translates and speaks out the tex
 # Installation Steps
 
 1. ```bash
-   git clone https://github.com/nagarajpandith/hackverse
+   git clone (https://github.com/Dakshagarwal5/TechNinja)
    ```
 
-2. cd hackverse
+2. cd TechNinja
 
 3. ```bash
    npm i
